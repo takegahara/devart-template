@@ -8,7 +8,7 @@
             "javascript",
            "webgl",
            "node.js",
-           "php",
+           "php"
         ],
         "toolkits": [
             "Three.js"
