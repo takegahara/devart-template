@@ -4,7 +4,11 @@
             "insert apis"
         ],
         "platforms": [
-            "Google Chrime"
+            "Google Chrome",
+            "javascript",
+           "webgl",
+           "node.js",
+           "php",
         ],
         "toolkits": [
             "Three.js"
