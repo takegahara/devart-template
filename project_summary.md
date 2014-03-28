@@ -4,5 +4,5 @@ WebGL & 3D Font
 ## Authors
 A TAKEGAHARA
 
-## URL
+## URL in this time 
 http://a.hdyisjp1.net/devart
